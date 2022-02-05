@@ -1,0 +1,7 @@
+./*/data/*
+*/combined_data/*
+*/venv
+*.zip
+*/.idea
+*/__pycache__/*
+
